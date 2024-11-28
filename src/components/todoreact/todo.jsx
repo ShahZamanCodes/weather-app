@@ -129,7 +129,6 @@ const Todolist = () => {
                         <button className="btn effect04" data-sm-link-text="Remove All"
                             onClick={removeAll}>
                             <span>CHECK LIST</span></button>
-
                     </div>
                 </div>
             </div>
